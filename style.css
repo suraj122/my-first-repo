@@ -1,0 +1,14 @@
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: aqua;
+  display: inline-block;
+}
+.small-box {
+  background-color: red;
+}
+.wrapper {
+  width: 410px;
+  margin: 0 auto;
+  /* font-size: 0; */
+}
